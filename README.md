@@ -1,11 +1,10 @@
 ## Índice
 
-1. [Introducción](#introducción)
+1. [Introducción](#proyecto-de-inventario-en-java)
 2. [Estructura de Archivos](#estructura-de-archivos)
 3. [Lógica y Funcionamiento](#lógica-y-funcionamiento)
 4. [Instrucciones para Compilar y Ejecutar](#instrucciones-para-compilar-y-ejecutar)
 5. [Contribuciones](#contribuciones)
-6. [Agradecimiento](#agradecimiento)
 
 # Proyecto de Inventario en Java
 
