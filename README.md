@@ -1,3 +1,12 @@
+## Índice
+
+1. [Introducción](#introducción)
+2. [Estructura de Archivos](#estructura-de-archivos)
+3. [Lógica y Funcionamiento](#lógica-y-funcionamiento)
+4. [Instrucciones para Compilar y Ejecutar](#instrucciones-para-compilar-y-ejecutar)
+5. [Contribuciones](#contribuciones)
+6. [Agradecimiento](#agradecimiento)
+
 # Proyecto de Inventario en Java
 
 Este es un proyecto de inventario desarrollado en Java que utiliza una estructura de datos de Árbol AVL para gestionar los productos. A continuación, se explica la lógica y el funcionamiento del proyecto, así como las instrucciones para compilar y ejecutar el programa.
