@@ -42,7 +42,7 @@ javac main.java
 El programa se iniciará y te presentará un menú de opciones para gestionar el inventario de productos.
 
 ## Autores:
--Eduardo Friesen @EduardoFriesen
--Bautista Macedo
--Tiziano Bertorello 
+- Eduardo Friesen
+- Bautista Macedo
+- Tiziano Bertorello 
 
