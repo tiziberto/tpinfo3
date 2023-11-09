@@ -4,7 +4,7 @@
 2. [Estructura de Archivos](#estructura-de-archivos)
 3. [Lógica y Funcionamiento](#lógica-y-funcionamiento)
 4. [Instrucciones para Compilar y Ejecutar](#instrucciones-para-compilar-y-ejecutar)
-5. [Contribuciones](#contribuciones)
+5. [Autores](#autores)
 
 # Proyecto de Inventario en Java
 
@@ -41,7 +41,8 @@ javac main.java
 
 El programa se iniciará y te presentará un menú de opciones para gestionar el inventario de productos.
 
-## Contribuciones:
-Si deseas contribuir a este proyecto, siéntete libre de hacer un fork del repositorio, implementar nuevas características o mejoras y enviar un pull request.
+## Autores:
+-Eduardo Friesen @EduardoFriesen
+-Bautista Macedo
+-Tiziano Bertorello 
 
-¡Disfruta utilizando este sistema de inventario en Java!
